@@ -1,8 +1,10 @@
 # Simple File Upload Web Server (SFUWS)
 .NET library build with VS 2017 that allows easy POST-request parsing.
 
+Don't bother using this. It's just a C# exercise.
 
-## Example: bspuploader
+
+## Test: bspuploader
 Lets users upload .bsp and .bsp.bz2 files to the host. The application then compresses/decompresses the files and places them in selected directories.
 
 
